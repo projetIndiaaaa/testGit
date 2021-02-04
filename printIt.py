@@ -1,2 +1,2 @@
 print("Yo")
-print("Mama")
+print("Yo")
